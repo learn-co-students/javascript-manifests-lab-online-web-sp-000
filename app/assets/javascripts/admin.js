@@ -14,4 +14,4 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require hello_world
-//= require ../../vendor/assets/javascripts/doesn_nothing
+//= require doesn_nothing
