@@ -13,4 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+
+// This file was in lib/assets, which isn't going to work.  It needs to be 
+// within lib/assets/javascripts I think
 //= require wrong_place_wrong_time
+
+// This file is in vendor/assets/javascripts, which works
+//= require alert_maker
+
+// This js file is within app/assets/javascripts
+//= require main
